@@ -36,6 +36,8 @@ Insights
 3.	High-consumption sites are concentrated in a few locations, suggesting targeted interventions could yield significant savings.
 4.	Energy demand is rising year-on-year, which may be due to production growth, equipment inefficiency, or lack of energy control measures.
 5.	Peak demand fluctuations indicate inconsistent load management and potential inefficiencies in scheduling or equipment usage.
+6.	<img width="1352" height="751" alt="Screenshot 2026-05-23 150953" src="https://github.com/user-attachments/assets/b7ddd9c6-d426-4545-bd7c-9c65fea219fb" />
+
 ________________________________________
 Recommendations
 1.	Expand Solar Installations
