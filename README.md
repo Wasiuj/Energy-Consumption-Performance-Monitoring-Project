@@ -65,3 +65,4 @@ If the recommendations are implemented:
 4.	Reduction in EUI across high-consumption locations.
 5.	Improved sustainability performance and lower carbon footprint.
 6.	Operational cost savings and better energy budget control.
+[View my Linkedin](https://www.linkedin.com/in/wasiu-jimoh-567b3920/)
